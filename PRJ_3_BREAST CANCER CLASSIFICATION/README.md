@@ -78,6 +78,7 @@ You can download the dataset from this link: https://archive.ics.uci.edu/ml/data
 <h3>CONCLUSION</h3>
 Based on the analysis of the Breast Cancer Classification dataset using logistic regression, we were able to achieve an accuracy of 92% in predicting whether a breast mass is benign or malignant.
 
-The logistic regression model was able to identify several features that were highly predictive of a malignant diagnosis, including mean perimeter, mean area, worst perimeter, worst area, and concavity. These findings are consistent with known risk factors for breast cancer, such as tumor size and shape.
+The logistic regression model was able to identify several features that were highly predictive of a malignant diagnosis, including mean perimeter, mean area, worst perimeter, worst area, and concavity. These findings are consistent with known risk factors for breast cancer, such as tumor size and shape.ROC curve is also drawn
+
 Overall, this project demonstrates the application of machine learning algorithms to real-world problems and how they can be used to make data-driven decisions. By using machine learning to classify breast cancer, we can potentially improve the accuracy and efficiency of breast cancer diagnosis, leading to better outcomes for patients.
 

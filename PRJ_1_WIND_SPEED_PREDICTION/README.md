@@ -15,9 +15,7 @@ In this project, we built a machine learning model to predict wind speed at a gi
 
 We started by performing exploratory data analysis to gain insights into the data and handle missing values and outliers. We then performed feature engineering and selection to prepare the data for model training.
 
-We trained a Random Forest Regression model on the data and evaluated its performance using various evaluation metrics such as mean absolute error (MAE), mean squared error (MSE), and R-squared score. Our model achieved an R-squared score of 0.86 on the test set, which is a good performance.
-
-We also visualized the feature importances of the model, which revealed that temperature and pressure were the most important features in predicting wind speed.
+We trained a Gradient Boosting Regressor model on the data and evaluated its performance using various evaluation metrics such as mean absolute error (MAE), mean squared error (MSE), and R-squared score. Our model achieved an R-squared score of 0.86 on the test set, which is a good performance.
 
 Overall, this project demonstrates the application of machine learning algorithms to real-world problems and how they can be used to make data-driven decisions. The model developed in this project can be used by various industries such as agriculture, aviation, and renewable energy to make decisions related to their operations.
 

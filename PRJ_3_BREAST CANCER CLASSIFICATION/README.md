@@ -67,7 +67,17 @@ concave points_worst: The worst (most irregular) number of concave portions of t
 symmetry_worst: The worst (most irregular) symmetry of the breast mass
 
 fractal_dimension_worst: The worst (most irregular) fractal dimension of the breast mass
-
 <h3>MODEL</h3>
-The model used in this project is a Support Vector Machine (SVM) classifier, which is a popular machine learning algorithm used for classification tasks. SVMs are particularly useful for classification tasks where there is a non-linear relationship between the features and the target variable.
-We used the Scikit-learn library in Python to build the SVM classifier. We trained the model on the training set and evaluated its performance on the test set. We used various evaluation metrics such as accuracy, precision, recall, and F1-score to assess the performance of the model.
+The model used in this project is a Logistic Regressior, which is a popular machine learning algorithm used for classification tasks. We used the Scikit-learn library in Python to build the Logistic Regressior. We trained the model on the training set and evaluated its performance on the test set. We used various evaluation metrics such as accuracy, precision to assess the performance of the model.
+<h3>Data Source</h3>
+The Breast Cancer Classification dataset used in this project is publicly available on the UCI Machine Learning Repository.
+
+The original source of the data is from the University of Wisconsin Hospitals, Madison, where breast cancer diagnoses were performed using fine needle aspirate (FNA) of breast mass. The FNA procedure involves using a thin needle to extract cells from the breast mass, which are then examined under a microscope to determine if they are cancerous or not.
+
+You can download the dataset from this link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+<h3>CONCLUSION</h3>
+Based on the analysis of the Breast Cancer Classification dataset using logistic regression, we were able to achieve an accuracy of 92% in predicting whether a breast mass is benign or malignant.
+
+The logistic regression model was able to identify several features that were highly predictive of a malignant diagnosis, including mean perimeter, mean area, worst perimeter, worst area, and concavity. These findings are consistent with known risk factors for breast cancer, such as tumor size and shape.
+Overall, this project demonstrates the application of machine learning algorithms to real-world problems and how they can be used to make data-driven decisions. By using machine learning to classify breast cancer, we can potentially improve the accuracy and efficiency of breast cancer diagnosis, leading to better outcomes for patients.
+

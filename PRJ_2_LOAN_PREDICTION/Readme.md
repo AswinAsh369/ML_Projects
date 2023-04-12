@@ -5,6 +5,7 @@ The dataset used in this project was obtained from a public source and contains 
 <h3>MODEL</h3>
 The model used in this project is a logistic regression model, which was chosen due to its ability to predict binary outcomes. The model was trained on the training set and evaluated on the test set. Various evaluation metrics were used to assess the performance of the model.
 <h3>COLUMNS</h3>
+
 Loan_ID: Unique Loan ID
 
 Gender: Male/Female
@@ -14,13 +15,21 @@ Married: Applicant married (Y/N)
 Dependents: Number of dependents
 
 Education: Applicant Education (Graduate/Under Graduate)
+
 Self_Employed: Self employed (Y/N)
+
 ApplicantIncome: Applicant income
+
 CoapplicantIncome: Coapplicant income
+
 LoanAmount: Loan amount in thousands
+
 Loan_Amount_Term: Term of loan in months
+
 Credit_History: Credit history meets guidelines (1 = yes, 0 = no)
+
 Property_Area: Urban/Semi-Urban/Rural
+
 Loan_Status: Loan approved (Y/N)
 <h3>Data Source</h3>
 The dataset was sourced from a public domain dataset available on Analytics Vidhya, which is a data science community that hosts various data science competitions and resources. The dataset can also be found on Kaggle.

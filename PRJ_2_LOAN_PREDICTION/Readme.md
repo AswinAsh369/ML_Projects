@@ -6,9 +6,13 @@ The dataset used in this project was obtained from a public source and contains 
 The model used in this project is a logistic regression model, which was chosen due to its ability to predict binary outcomes. The model was trained on the training set and evaluated on the test set. Various evaluation metrics were used to assess the performance of the model.
 <h3>COLUMNS</h3>
 Loan_ID: Unique Loan ID
+
 Gender: Male/Female
+
 Married: Applicant married (Y/N)
+
 Dependents: Number of dependents
+
 Education: Applicant Education (Graduate/Under Graduate)
 Self_Employed: Self employed (Y/N)
 ApplicantIncome: Applicant income

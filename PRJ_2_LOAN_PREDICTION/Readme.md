@@ -39,7 +39,7 @@ In this project, we developed a machine learning model to predict whether a loan
 
 We started by performing exploratory data analysis to gain insights into the data and handle missing values, outliers, and categorical variables. We then performed feature engineering and selection to prepare the data for model training.
 
-We trained a logistic regression model on the data and evaluated its performance using various metrics such as accuracy, precision, recall, and F1 score. Our model achieved an accuracy of 80%, which is a decent performance.
+We trained a logistic regression model on the data and evaluated its performance using various metrics such as accuracy, precision, recall, and F1 score. Our model achieved an accuracy of 87.5%, which is a decent performance.
 
 We also used a confusion matrix and ROC curve to visualize the performance of the model and find the optimal threshold value.
 

@@ -50,17 +50,12 @@ Model Building: We have built a Random Forest Regression model to predict the fl
 
 Model Evaluation: We have evaluated the performance of the model using metrics like Mean Absolute Error and R2 Score.
 
+<h3>DATA SOURCE</h3>
+The Flight Ticket Price Prediction dataset used in this project was obtained from Kaggle. The original source of the dataset is not mentioned, but it is a publicly available dataset on Kaggle. The dataset consists of flight ticket prices for various airlines between different cities in India. 
+The dataset can be accessed from the following link: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
+
 <h3>CONCLUSION</h3>
 The Random Forest Regression model built for this project achieved an R2 score of 98.52 and a mean absolute error of 1095.15. This indicates that the model can predict flight ticket prices with an accuracy of 98.52%. The most important features for the model were found to be the number of stops, the duration of the flight, and the date of the journey.
 
 Overall, this project demonstrates the effectiveness of machine learning techniques for predicting flight ticket prices, and provides a useful tool for travelers looking to find the best deals on flights between two cities.
-
-
-
-
-
-
-
-
-
 

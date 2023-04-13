@@ -1,8 +1,13 @@
 <h1>ADANI ENTERPRISES STOCK PREDICTION</h1>
+
 This machine learning project aims to predict the future stock prices of Adani Enterprises based on historical data. The project involves the use of various machine learning techniques and tools to build a predictive model that can forecast the stock prices of Adani Enterprises.
+
 <h3>ABOUT DATASET</h3>
+
 The dataset used in this project is obtained from the National Stock Exchange (NSE) of India's website. It contains historical stock prices of Adani Enterprises from January 2011 to August 2021. The dataset includes features such as Date, Open, High, Low, Close, and Volume.The dataset contains details of ADANI ENTERPRISES LIMITED stocks from 18-03-2021-to-18-03-2023.
+
 <h3>COLUMNS</h3>
+
 Date: The date on which the stock price was recorded.
 
 Open: The opening price of the stock on the given date.
@@ -25,7 +30,9 @@ The linear regression model attempts to fit a line through the data points that 
 <h3>DATA SOURCE</h3>
 The source of the dataset  is the website of the National Stock Exchange of India (NSE), which provides real-time and historical data on stock prices and other financial information for various companies listed on the exchange. The specific dataset used in the project is for the stock prices of Adani Enterprises Limited (ADANIENT) and was obtained from the NSE website.
 You can download the dataset from this link:  https://www.nseindia.com/get-quotes/equity?symbol=ADANIENT  
+
 <h3>CONCLUSION</h3>
+
 I did this analysis based on the data set of two years of stock price fluctuation avilable in the official site of NSC.
 Using Linear Regression model I got an acurracy of 99.9%.
 The linear regression model has proven to be an effective tool for predicting the stock price of ADANIENT with high accuracy.

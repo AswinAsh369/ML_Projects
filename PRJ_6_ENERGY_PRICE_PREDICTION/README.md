@@ -83,6 +83,7 @@ This dataset contains 4 years of electrical consumption, generation, pricing, an
 You can download the dataset from this link : https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?select=energy_dataset.csv
 
 <h3>CONCLUSION</h3>
+
 Using this real time dataset of consumption and generation of Spain, I have tried to predict the energy price depending upon different parameters, such as generation from different sources.
 
 Using Randon Forest Regression Model I got an accuracy of 66.08%.

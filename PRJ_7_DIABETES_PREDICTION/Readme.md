@@ -15,13 +15,14 @@ BMI: Body mass index (weight in kg/(height in m)^2)
 DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 Outcome: Class variable (0 or 1)
+
 Number of Observation Units: 768
 
 Variable Number: 9
 <h3>Objective</h3>
 We will try to build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
-D
+
 
 
 
